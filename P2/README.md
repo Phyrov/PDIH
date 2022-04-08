@@ -439,11 +439,14 @@ int main(int argc, char *argv[]){
 }
 ```
 
+
 Se trata de un pequeño juego en terminal basado en el clásico Ping-Pong. Primero mostramos una pantalla de carga.
 ![enter image description here](https://github.com/Phyrov/PDIH/blob/main/P2/img/Instruction-pingpong.png?raw=true)
 
+
 Seleccionamos el nivel de dificultad.
 ![enter image description here](https://github.com/Phyrov/PDIH/blob/main/P2/img/Level-selection.png?raw=true)
+
 
 Tras acabar la partida se muestra la pantalla final y el ganador.
 ![enter image description here](https://github.com/Phyrov/PDIH/blob/main/P2/img/Playing-game.png?raw=true)
