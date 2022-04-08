@@ -106,7 +106,4 @@ Seleccionamos el nivel de dificultad.
 
 Tras acabar la partida se muestra la pantalla final y el ganador.
 ![enter image description here](https://github.com/Phyrov/PDIH/blob/main/P2/img/Playing-game.png?raw=true)
-# Autores ✒️
 
-* **Francisco Lara Marín**
-* **Álvaro Marín Pérez**
