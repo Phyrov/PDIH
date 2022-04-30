@@ -47,7 +47,7 @@ En nuestro caso la conexión al completo quedaría de la siguiente manera:
 ![enter image description here](https://github.com/Phyrov/PDIH/blob/main/Web%20Server%20Arduino/img/Completo.jpg?raw=true)
 
 ### Código
-´´´c++
+c++
 
 #include <String.h>
 #include <SPI.h>
@@ -171,7 +171,7 @@ void loop(){
     } 
   } 
 }
-´´´
+
 
 ### Resultado final
 ![enter image description here](https://github.com/Phyrov/PDIH/blob/main/Web%20Server%20Arduino/img/VID_20220429_191544.gif?raw=true)
