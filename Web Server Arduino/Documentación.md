@@ -48,6 +48,7 @@ En nuestro caso la conexión al completo quedaría de la siguiente manera:
 
 ### Código
 ´´´c++
+
 #include <String.h>
 #include <SPI.h>
 #include <Ethernet.h>
