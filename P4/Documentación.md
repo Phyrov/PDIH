@@ -1,8 +1,8 @@
 ﻿# Práctica 4: El lenguaje Postscript
 ## Objetivos
-• Conocer la sintaxis básica del lenguaje Postscript. 
-• Crear varios archivos y probar el funcionamiento con un visor Postscript.
-• Transformar los ejemplos creados a otros formatos de archivo, como PDF.
+- Conocer la sintaxis básica del lenguaje Postscript. 
+- Crear varios archivos y probar el funcionamiento con un visor Postscript.
+- Transformar los ejemplos creados a otros formatos de archivo, como PDF.
 
 
 ## Casa
